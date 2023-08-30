@@ -14,6 +14,7 @@
 8. **웹 개발 전체 프로세스 이해:** HTML, CSS, JavaScript를 조합하여 웹 페이지를 구축하고 기능을 추가하는 과정을 경험하여 웹 개발의 전체 프로세스를 이해하게 되었습니다.
 
 
+
 # code
     <!DOCTYPE html>
     <html lang="en">
