@@ -1,0 +1,16 @@
+/* ul size */
+html {
+    font-size: 10px;
+}
+p{
+    font-size: 30px;
+    color: #04cf5c;
+}
+
+.rems {
+    font-size: 1rem;
+}
+/* li size */
+.ems li {
+    font-size: 1.2em;
+}
