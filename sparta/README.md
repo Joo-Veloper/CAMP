@@ -1,6 +1,6 @@
 # Spartiflix
 <div>
-<img src="https://github.com/Joo-Veloper/sparta/assets/134623719/ae087c56-21a7-4739-8912-bdf7f2e93142">
+<img src = https://github.com/Joo-Veloper/NB/assets/134623719/5c8bb226-a3a3-4fbe-9b47-b36119195051>
 </div>
 
 # 리뷰
