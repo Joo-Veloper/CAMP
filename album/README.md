@@ -1,6 +1,6 @@
 # ALBUM HTML
 <div>
-<img src="https://github.com/Joo-Veloper/-----album/assets/134623719/a453c04b-b5d8-44a2-8f32-7a9428fc4a48">
+<img src=https://github.com/Joo-Veloper/NB/assets/134623719/af532a75-e82d-44e3-8b3a-c96ea681d367>
 </div>
 
 Logbook(개발일지)
